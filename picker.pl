@@ -88,5 +88,5 @@ say "=====================================";
 say "Hat pre-shuffle:";
 say join "\n", @hat;
 
-say ""
+say "";
 say "THE WINNER IS: ",$hat[0];
