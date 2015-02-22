@@ -67,7 +67,7 @@ say "";
 foreach my $movie (sort { $final_scores{$b} <=> $final_scores{$a} } keys %final_scores)
 {
 	say $final_scores{$movie} . " " . $movie . "  score breakdown: " .
-		(join ", ", map { "$_ x $samples{$movie}->{$_}" } sort { $a <=> $b } keys $samples{$movie});
+		(join ", ", map { "${_} pt x $samples{$movie}->{$_}" } sort { $a <=> $b } keys $samples{$movie});
 }
 
 my @hat;
