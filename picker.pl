@@ -85,7 +85,7 @@ say join "\n", @hat;
 
 say "";
 say "=====================================";
-say "Hat pre-shuffle:";
+say "Hat post-shuffle:";
 say join "\n", @hat;
 
 say "";
