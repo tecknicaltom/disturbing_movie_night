@@ -1,0 +1,530 @@
+==========================
+  Disturbing Movie Night  
+       Movie Picker       
+==========================
+
+Running at: Wed Mar  4 09:29:26 2015
+
+trial 1
+trial 2
+trial 3
+trial 4
+trial 5
+trial 6
+trial 7
+trial 8
+trial 9
+trial 10
+trial 11
+trial 12
+trial 13
+trial 14
+trial 15
+trial 16
+trial 17
+trial 18
+trial 19
+trial 20
+
+9 The Machinist (2004)  score breakdown: 7 pt x 3, 8 pt x 3, 9 pt x 8, 10 pt x 2, 11 pt x 4
+8 Event Horizon (1997)  score breakdown: 6 pt x 1, 7 pt x 5, 8 pt x 9, 9 pt x 4, 10 pt x 1
+7 Pandorum (2009)  score breakdown: 5 pt x 4, 6 pt x 1, 7 pt x 7, 8 pt x 6, 9 pt x 2
+6 The Crow (1994)  score breakdown: 4 pt x 3, 5 pt x 8, 6 pt x 9
+6 Fear and Loathing in Las Vegas (1998)  score breakdown: 4 pt x 3, 5 pt x 2, 6 pt x 7, 7 pt x 6, 8 pt x 2
+6 Antiviral (2012)  score breakdown: 4 pt x 4, 5 pt x 5, 6 pt x 7, 7 pt x 2, 8 pt x 2
+6 Butterfly Effect  score breakdown: 4 pt x 1, 5 pt x 5, 6 pt x 6, 7 pt x 5, 8 pt x 3
+6 The Game (1997)  score breakdown: 5 pt x 5, 6 pt x 9, 7 pt x 6
+6 Devil's Advocate (1997)  score breakdown: 3 pt x 3, 4 pt x 5, 5 pt x 4, 6 pt x 5, 7 pt x 3
+5 The Fountain (2006)  score breakdown: 2 pt x 3, 3 pt x 3, 4 pt x 5, 5 pt x 7, 6 pt x 2
+5 Memento (2000)  score breakdown: 3 pt x 2, 4 pt x 3, 5 pt x 8, 6 pt x 4, 7 pt x 3
+5 Falling Down (1993)  score breakdown: 4 pt x 9, 5 pt x 9, 6 pt x 2
+5 The Silence of the Lambs (1991)  score breakdown: 4 pt x 4, 5 pt x 6, 6 pt x 5, 7 pt x 5
+4 Battle Royale (2000)  score breakdown: 1 pt x 2, 2 pt x 4, 3 pt x 4, 4 pt x 7, 5 pt x 3
+4 Hard Candy  score breakdown: 1 pt x 4, 2 pt x 2, 3 pt x 2, 4 pt x 7, 5 pt x 5
+4 Primer (2004)  score breakdown: 2 pt x 4, 3 pt x 3, 4 pt x 7, 5 pt x 4, 6 pt x 2
+4 Cube (1997)  score breakdown: 2 pt x 2, 3 pt x 4, 4 pt x 6, 5 pt x 6, 6 pt x 2
+4 Jacob's Ladder (1990)  score breakdown: 4 pt x 6, 5 pt x 6, 6 pt x 3, 7 pt x 5
+3 The Divide  score breakdown: 3 pt x 20
+3 The Cell (2000)  score breakdown: 3 pt x 20
+3 Teeth (2007)  score breakdown: 2 pt x 2, 3 pt x 13, 4 pt x 5
+3 Predestination (2014)  score breakdown: 2 pt x 3, 3 pt x 11, 4 pt x 5, 5 pt x 1
+3 Dark City  score breakdown: 3 pt x 20
+3 Repo! The Genetic Opera  score breakdown: 1 pt x 2, 2 pt x 5, 3 pt x 7, 4 pt x 3, 5 pt x 3
+3 Strange Days  score breakdown: 3 pt x 20
+3 Sunshine (2007)  score breakdown: 1 pt x 1, 2 pt x 4, 3 pt x 8, 4 pt x 6, 5 pt x 1
+3 Pan's Labyrinth (2006)  score breakdown: 1 pt x 2, 2 pt x 6, 3 pt x 8, 4 pt x 3, 5 pt x 1
+3 He Was a Quiet Man (2007)  score breakdown: 2 pt x 3, 3 pt x 8, 4 pt x 5, 5 pt x 3, 6 pt x 1
+3 Pi (1998)  score breakdown: 2 pt x 2, 3 pt x 7, 4 pt x 5, 5 pt x 4, 6 pt x 2
+3 eXistenZ (1999)  score breakdown: 2 pt x 1, 3 pt x 7, 4 pt x 6, 5 pt x 5, 6 pt x 1
+3 Trainspotting (1996)  score breakdown: 1 pt x 1, 2 pt x 3, 3 pt x 9, 4 pt x 6, 5 pt x 1
+3 Kids (1995)  score breakdown: 3 pt x 20
+3 American Psycho (2000)  score breakdown: 3 pt x 20
+2 Requiem for a Dream (2000)  score breakdown: 2 pt x 20
+2 Misery (1990)  score breakdown: 2 pt x 20
+2 Bad Taste (1987)  score breakdown: 2 pt x 20
+2 Kill List (2011)  score breakdown: 2 pt x 20
+2 Repo Men  score breakdown: 2 pt x 20
+2 Irreversible (2002)  score breakdown: 2 pt x 20
+2 Chronicle (2012)  score breakdown: 2 pt x 20
+2 Das Experiment (2001)  score breakdown: 2 pt x 20
+2 Anatomie (2000)  score breakdown: 2 pt x 20
+2 Sympathy for Mr. Vengeance  score breakdown: 2 pt x 20
+2 We Need to Talk About Kevin (2011)  score breakdown: 2 pt x 20
+2 Heavy Metal (1981)  score breakdown: 2 pt x 20
+2 House of Sand and Fog (2003)  score breakdown: 2 pt x 20
+2 Lady Vengeance (2005)  score breakdown: 2 pt x 20
+2 Transsiberian (2008)  score breakdown: 2 pt x 20
+2 Se7en (1995)  score breakdown: 2 pt x 20
+2 A Clockwork Orange (1971)  score breakdown: 0 pt x 4, 1 pt x 5, 2 pt x 5, 3 pt x 3, 4 pt x 3
+2 Identity (2003)  score breakdown: 2 pt x 20
+1 Bug  score breakdown: 1 pt x 20
+1 Party Monster (2003)  score breakdown: 1 pt x 20
+1 Grave Encounters 2 (2012)  score breakdown: 1 pt x 20
+1 Delicatessen (1991)  score breakdown: 1 pt x 20
+1 The City of Lost Children (1995)  score breakdown: 1 pt x 20
+1 The Killing Fields (1984)  score breakdown: 1 pt x 20
+1 A Serbian Film (2010)  score breakdown: 1 pt x 20
+1 American History X (1998)  score breakdown: 1 pt x 20
+1 Antichrist (2009)  score breakdown: 1 pt x 20
+1 Sleepaway camp  score breakdown: 1 pt x 20
+1 Funny Games (1997)  score breakdown: 1 pt x 20
+1 Henry: Portrait of a Serial Killer (1986)  score breakdown: 1 pt x 20
+1 Layer Cake (2004)  score breakdown: 1 pt x 20
+1 Boys Don't Cry (1999)  score breakdown: 1 pt x 20
+1 Under the Skin (2013)  score breakdown: 1 pt x 20
+1 An American Crime (2007)  score breakdown: 1 pt x 20
+1 Black Swan (2010)  score breakdown: 1 pt x 20
+1 Titicut Follies (1967)  score breakdown: 1 pt x 20
+1 The Little Girl Who Lives Down the Lane (1976)  score breakdown: 1 pt x 20
+1 Magnolia (1999)  score breakdown: 1 pt x 20
+1 Dolores Claiborne (1995)  score breakdown: 1 pt x 20
+0 Enter the Void (2009)  score breakdown: 0 pt x 20
+0 High Tension (2003)  score breakdown: 0 pt x 20
+0 Synecdoche, New York (2008)  score breakdown: 0 pt x 20
+0 Happiness (1998)  score breakdown: 0 pt x 20
+0 Eternal Sunshine of the Spotless Mind (2004)  score breakdown: 0 pt x 20
+0 Snowpiercer (2013)  score breakdown: 0 pt x 20
+0 Return to Oz (1985)  score breakdown: 0 pt x 20
+0 Gummo  score breakdown: 0 pt x 20
+0 The Pianist (2002)  score breakdown: 0 pt x 20
+0 Night and Fog (1955)  score breakdown: 0 pt x 20
+0 Saw (2004)  score breakdown: 0 pt x 20
+0 Hostel  score breakdown: 0 pt x 20
+0 The Deer Hunter  score breakdown: 0 pt x 20
+0 Meet the Feebles (1989)  score breakdown: 0 pt x 20
+0 Eraserhead (1977)  score breakdown: 0 pt x 20
+0 The Devils (1971)  score breakdown: 0 pt x 20
+0 Valhalla Rising (2009)  score breakdown: 0 pt x 20
+0 The Human Centipede (2009)  score breakdown: 0 pt x 20
+
+=====================================
+Hat pre-shuffle:
+The Crow (1994)
+The Crow (1994)
+The Crow (1994)
+The Crow (1994)
+The Crow (1994)
+The Crow (1994)
+Battle Royale (2000)
+Battle Royale (2000)
+Battle Royale (2000)
+Battle Royale (2000)
+Bug
+Party Monster (2003)
+The Divide
+The Divide
+The Divide
+Requiem for a Dream (2000)
+Requiem for a Dream (2000)
+The Cell (2000)
+The Cell (2000)
+The Cell (2000)
+Grave Encounters 2 (2012)
+Hard Candy
+Hard Candy
+Hard Candy
+Hard Candy
+Teeth (2007)
+Teeth (2007)
+Teeth (2007)
+Fear and Loathing in Las Vegas (1998)
+Fear and Loathing in Las Vegas (1998)
+Fear and Loathing in Las Vegas (1998)
+Fear and Loathing in Las Vegas (1998)
+Fear and Loathing in Las Vegas (1998)
+Fear and Loathing in Las Vegas (1998)
+Predestination (2014)
+Predestination (2014)
+Predestination (2014)
+Misery (1990)
+Misery (1990)
+The Fountain (2006)
+The Fountain (2006)
+The Fountain (2006)
+The Fountain (2006)
+The Fountain (2006)
+Delicatessen (1991)
+The City of Lost Children (1995)
+Primer (2004)
+Primer (2004)
+Primer (2004)
+Primer (2004)
+The Killing Fields (1984)
+A Serbian Film (2010)
+Memento (2000)
+Memento (2000)
+Memento (2000)
+Memento (2000)
+Memento (2000)
+Antiviral (2012)
+Antiviral (2012)
+Antiviral (2012)
+Antiviral (2012)
+Antiviral (2012)
+Antiviral (2012)
+Bad Taste (1987)
+Bad Taste (1987)
+American History X (1998)
+Kill List (2011)
+Kill List (2011)
+Repo Men
+Repo Men
+Dark City
+Dark City
+Dark City
+Butterfly Effect
+Butterfly Effect
+Butterfly Effect
+Butterfly Effect
+Butterfly Effect
+Butterfly Effect
+Irreversible (2002)
+Irreversible (2002)
+Antichrist (2009)
+Chronicle (2012)
+Chronicle (2012)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Event Horizon (1997)
+Falling Down (1993)
+Falling Down (1993)
+Falling Down (1993)
+Falling Down (1993)
+Falling Down (1993)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+The Machinist (2004)
+Das Experiment (2001)
+Das Experiment (2001)
+Repo! The Genetic Opera
+Repo! The Genetic Opera
+Repo! The Genetic Opera
+Anatomie (2000)
+Anatomie (2000)
+Cube (1997)
+Cube (1997)
+Cube (1997)
+Cube (1997)
+Sympathy for Mr. Vengeance
+Sympathy for Mr. Vengeance
+Sleepaway camp
+Funny Games (1997)
+Henry: Portrait of a Serial Killer (1986)
+We Need to Talk About Kevin (2011)
+We Need to Talk About Kevin (2011)
+Layer Cake (2004)
+Strange Days
+Strange Days
+Strange Days
+Heavy Metal (1981)
+Heavy Metal (1981)
+Boys Don't Cry (1999)
+Under the Skin (2013)
+An American Crime (2007)
+House of Sand and Fog (2003)
+House of Sand and Fog (2003)
+The Game (1997)
+The Game (1997)
+The Game (1997)
+The Game (1997)
+The Game (1997)
+The Game (1997)
+Lady Vengeance (2005)
+Lady Vengeance (2005)
+Devil's Advocate (1997)
+Devil's Advocate (1997)
+Devil's Advocate (1997)
+Devil's Advocate (1997)
+Devil's Advocate (1997)
+Devil's Advocate (1997)
+Black Swan (2010)
+The Silence of the Lambs (1991)
+The Silence of the Lambs (1991)
+The Silence of the Lambs (1991)
+The Silence of the Lambs (1991)
+The Silence of the Lambs (1991)
+Titicut Follies (1967)
+Sunshine (2007)
+Sunshine (2007)
+Sunshine (2007)
+Transsiberian (2008)
+Transsiberian (2008)
+Pan's Labyrinth (2006)
+Pan's Labyrinth (2006)
+Pan's Labyrinth (2006)
+He Was a Quiet Man (2007)
+He Was a Quiet Man (2007)
+He Was a Quiet Man (2007)
+Se7en (1995)
+Se7en (1995)
+The Little Girl Who Lives Down the Lane (1976)
+Pi (1998)
+Pi (1998)
+Pi (1998)
+eXistenZ (1999)
+eXistenZ (1999)
+eXistenZ (1999)
+A Clockwork Orange (1971)
+A Clockwork Orange (1971)
+Trainspotting (1996)
+Trainspotting (1996)
+Trainspotting (1996)
+Magnolia (1999)
+Identity (2003)
+Identity (2003)
+Dolores Claiborne (1995)
+Pandorum (2009)
+Pandorum (2009)
+Pandorum (2009)
+Pandorum (2009)
+Pandorum (2009)
+Pandorum (2009)
+Pandorum (2009)
+Kids (1995)
+Kids (1995)
+Kids (1995)
+American Psycho (2000)
+American Psycho (2000)
+American Psycho (2000)
+Jacob's Ladder (1990)
+Jacob's Ladder (1990)
+Jacob's Ladder (1990)
+Jacob's Ladder (1990)
+
+=====================================
+Hat pre-shuffle:
+Event Horizon (1997)
+Primer (2004)
+Predestination (2014)
+Transsiberian (2008)
+Repo! The Genetic Opera
+The Divide
+American Psycho (2000)
+Das Experiment (2001)
+Event Horizon (1997)
+Party Monster (2003)
+Dark City
+The Silence of the Lambs (1991)
+Sunshine (2007)
+Hard Candy
+American Psycho (2000)
+The Silence of the Lambs (1991)
+Pan's Labyrinth (2006)
+Pandorum (2009)
+Se7en (1995)
+The Crow (1994)
+Pandorum (2009)
+Chronicle (2012)
+Memento (2000)
+The Machinist (2004)
+Falling Down (1993)
+Event Horizon (1997)
+Predestination (2014)
+Butterfly Effect
+Pi (1998)
+House of Sand and Fog (2003)
+Layer Cake (2004)
+Falling Down (1993)
+Butterfly Effect
+Anatomie (2000)
+Antiviral (2012)
+Repo! The Genetic Opera
+Dolores Claiborne (1995)
+Antiviral (2012)
+Lady Vengeance (2005)
+Sympathy for Mr. Vengeance
+The Machinist (2004)
+Kids (1995)
+Primer (2004)
+Bad Taste (1987)
+Butterfly Effect
+Pandorum (2009)
+Misery (1990)
+Event Horizon (1997)
+Pan's Labyrinth (2006)
+Jacob's Ladder (1990)
+Delicatessen (1991)
+Devil's Advocate (1997)
+Fear and Loathing in Las Vegas (1998)
+Pandorum (2009)
+The Little Girl Who Lives Down the Lane (1976)
+The Crow (1994)
+The Killing Fields (1984)
+American Psycho (2000)
+Repo! The Genetic Opera
+Antichrist (2009)
+Battle Royale (2000)
+Kill List (2011)
+Jacob's Ladder (1990)
+Jacob's Ladder (1990)
+Teeth (2007)
+Boys Don't Cry (1999)
+Repo Men
+The Divide
+Fear and Loathing in Las Vegas (1998)
+eXistenZ (1999)
+Bug
+Memento (2000)
+Event Horizon (1997)
+The Fountain (2006)
+Sympathy for Mr. Vengeance
+Devil's Advocate (1997)
+Teeth (2007)
+The Game (1997)
+The Machinist (2004)
+Antiviral (2012)
+Pandorum (2009)
+Pan's Labyrinth (2006)
+Devil's Advocate (1997)
+Fear and Loathing in Las Vegas (1998)
+The Game (1997)
+American History X (1998)
+Chronicle (2012)
+Kill List (2011)
+Devil's Advocate (1997)
+The Game (1997)
+The Cell (2000)
+The Machinist (2004)
+Strange Days
+Falling Down (1993)
+An American Crime (2007)
+Under the Skin (2013)
+Fear and Loathing in Las Vegas (1998)
+Cube (1997)
+We Need to Talk About Kevin (2011)
+Magnolia (1999)
+Trainspotting (1996)
+The Game (1997)
+Battle Royale (2000)
+Se7en (1995)
+The Machinist (2004)
+Black Swan (2010)
+Battle Royale (2000)
+Das Experiment (2001)
+Jacob's Ladder (1990)
+Henry: Portrait of a Serial Killer (1986)
+He Was a Quiet Man (2007)
+The Game (1997)
+Antiviral (2012)
+Anatomie (2000)
+Memento (2000)
+Dark City
+Sunshine (2007)
+The Machinist (2004)
+Heavy Metal (1981)
+The Fountain (2006)
+The City of Lost Children (1995)
+Butterfly Effect
+Strange Days
+Requiem for a Dream (2000)
+Cube (1997)
+Predestination (2014)
+The Machinist (2004)
+Pandorum (2009)
+Teeth (2007)
+The Fountain (2006)
+The Silence of the Lambs (1991)
+Trainspotting (1996)
+Heavy Metal (1981)
+Pi (1998)
+Kids (1995)
+The Machinist (2004)
+Lady Vengeance (2005)
+Primer (2004)
+The Machinist (2004)
+Butterfly Effect
+The Crow (1994)
+Event Horizon (1997)
+Identity (2003)
+Devil's Advocate (1997)
+Dark City
+Hard Candy
+Fear and Loathing in Las Vegas (1998)
+A Clockwork Orange (1971)
+The Silence of the Lambs (1991)
+The Cell (2000)
+Pandorum (2009)
+Memento (2000)
+A Serbian Film (2010)
+Cube (1997)
+Battle Royale (2000)
+Strange Days
+Trainspotting (1996)
+The Fountain (2006)
+Devil's Advocate (1997)
+Hard Candy
+Hard Candy
+Pi (1998)
+Fear and Loathing in Las Vegas (1998)
+Irreversible (2002)
+Sleepaway camp
+Event Horizon (1997)
+Repo Men
+Falling Down (1993)
+He Was a Quiet Man (2007)
+Funny Games (1997)
+The Crow (1994)
+We Need to Talk About Kevin (2011)
+The Crow (1994)
+Requiem for a Dream (2000)
+Transsiberian (2008)
+Memento (2000)
+eXistenZ (1999)
+Primer (2004)
+The Game (1997)
+Antiviral (2012)
+Identity (2003)
+Irreversible (2002)
+House of Sand and Fog (2003)
+A Clockwork Orange (1971)
+The Crow (1994)
+Bad Taste (1987)
+The Cell (2000)
+eXistenZ (1999)
+Grave Encounters 2 (2012)
+Antiviral (2012)
+Titicut Follies (1967)
+Falling Down (1993)
+Kids (1995)
+The Silence of the Lambs (1991)
+Event Horizon (1997)
+Cube (1997)
+The Fountain (2006)
+Misery (1990)
+Sunshine (2007)
+The Divide
+Butterfly Effect
+He Was a Quiet Man (2007)
+
+THE WINNER IS: Event Horizon (1997)
