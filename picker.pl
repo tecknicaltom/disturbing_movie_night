@@ -9,6 +9,7 @@ use Reddit::Client;
 use List::Util qw(shuffle);
 use File::Slurp;
 
+$| = 1;
 my $num_trials = 20;
 
 my $session = 'reddit-session';
@@ -67,7 +68,7 @@ say "";
 foreach my $movie (sort { $final_scores{$b} <=> $final_scores{$a} } keys %final_scores)
 {
 	say $final_scores{$movie} . " " . $movie . "  score breakdown: " .
-		(join ", ", map { "${_} pt x $samples{$movie}->{$_}" } sort { $a <=> $b } keys $samples{$movie});
+		(join ", ", map { "${_} pt x $samples{$movie}->{$_}" } sort { $a <=> $b } keys %{$samples{$movie}});
 }
 
 my @hat;
